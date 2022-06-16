@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\bin\Debug\netcoreapp3.1\FourteenthTask.exe
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\bin\Debug\netcoreapp3.1\FourteenthTask.deps.json
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\bin\Debug\netcoreapp3.1\FourteenthTask.runtimeconfig.json
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\bin\Debug\netcoreapp3.1\FourteenthTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\bin\Debug\netcoreapp3.1\FourteenthTask.dll
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\bin\Debug\netcoreapp3.1\FourteenthTask.pdb
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.dll
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.pdb
+C:\Users\Илья\source\repos\FourteenthTask\FourteenthTask\obj\Debug\netcoreapp3.1\FourteenthTask.genruntimeconfig.cache
